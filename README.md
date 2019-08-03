@@ -1,4 +1,4 @@
-# NodeJs-securing-restful-apis - ES6
+# NodeJs-securing-restful-apis - ES6 LoopBack
 
 - Security Threats: overview - OWASP is your one source for a list = prevention
 https://www.cloudflare.com/learning/security/threats/owasp-top-10/
