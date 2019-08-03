@@ -21,3 +21,4 @@ npm-debug.log
 
 # my local file
 downloads
+package-lock.json
